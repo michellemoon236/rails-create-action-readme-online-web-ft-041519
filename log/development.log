@@ -90,3 +90,6 @@ Processing by PostsController#index as HTML
   Rendering posts/index.html.erb within layouts/application
   [1m[36mPost Load (0.3ms)[0m  [1m[34mSELECT "posts".* FROM "posts"[0m
   Rendered posts/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 438ms (Views: 435.2ms | ActiveRecord: 0.8ms)
+
+
